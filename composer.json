@@ -1,0 +1,17 @@
+{
+    "name": "hraw/factorypattern",
+    "authors": [
+        {
+            "name": "Harish Rawat",
+            "email": "harishrawat93@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LspFactory\\": "src/"
+        }
+    }
+}
